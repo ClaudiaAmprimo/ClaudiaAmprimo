@@ -9,6 +9,8 @@
 
 - 🤝 Feel free to reach out if you have expertise in back-end or front-end. **I'm always eager to learn and grow as a developer!**
 
+- 👨‍💻 My portfolio: https://troopl.com/claudiaamprimo
+  
 - 👨‍💻 My bootcamp proyects:
   <p>https://www.travtribe.me/</p> 
   <p>https://findmyskipper-7dab393e30af.herokuapp.com/</p>
