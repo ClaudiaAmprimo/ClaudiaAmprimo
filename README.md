@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building a dynamic marketplace using Ruby on Rails to enhance my backend development skills.**
 
-- 🌱 I’m currently studying: **Javascript and AWS**
+- 🌱 I’m currently studying: **Amazon Web Services**
 
 - 👯 I’m looking to collaborate on **exciting open-source projects related to web development and Ruby on Rails.**
 
