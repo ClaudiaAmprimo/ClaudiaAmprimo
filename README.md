@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **fulltack developer, creating new features and maintaining a dynamic website**
 
-- 🌱 I’m currently studying: **Amazon Web Services**
+- 🌱 I’m currently studying: **Amazon Web Services** and **Angular**
 
 - 👯 I’m looking to collaborate on **exciting open-source projects related to web development and Ruby on Rails.**
 
