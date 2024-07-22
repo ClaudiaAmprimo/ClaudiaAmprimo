@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently studying: **Amazon Web Services** and **Angular**
 
-- 👯 I’m looking to collaborate on **exciting open-source projects related to web development and Ruby on Rails.**
+- 👯 I’m looking to collaborate on **exciting open-source projects related to web development, Ruby on Rails and Angular.**
 
 - 🤝 Feel free to reach out if you have expertise in back-end or front-end. **I'm always eager to learn and grow as a developer!**
 
 - 👨‍💻 My portfolio: https://troopl.com/claudiaamprimo
   
-- 👨‍💻 My bootcamp proyects:
+- 👨‍💻 My personal proyects:
   <p>https://www.travtribe.me/</p> 
   <p>https://findmyskipper-7dab393e30af.herokuapp.com/</p>
 
