@@ -12,8 +12,8 @@
 - 👨‍💻 My portfolio: https://troopl.com/claudiaamprimo
   
 - 👨‍💻 My personal proyects:
-  <p>https://www.travtribe.me/</p> 
-  <p>https://findmyskipper-7dab393e30af.herokuapp.com/</p>
+   - [https://www.travtribe.me/](https://www.travtribe.me/)
+   - [https://findmyskipper-7dab393e30af.herokuapp.com/](https://findmyskipper-7dab393e30af.herokuapp.com/)
 
 - ⚡ Fun fact! **Coding by day, Dj by night 🎧**
 
