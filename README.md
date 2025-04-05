@@ -12,6 +12,7 @@
 - 👨‍💻 My portfolio: https://troopl.com/claudiaamprimo
   
 - 👨‍💻 My personal proyects:
+   - https://travel-hub-rho-one.vercel.app/ 
    - [https://www.travtribe.me/](https://www.travtribe.me/)
    - [https://findmyskipper-7dab393e30af.herokuapp.com/](https://findmyskipper-7dab393e30af.herokuapp.com/)
 
